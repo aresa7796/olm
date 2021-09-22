@@ -1,0 +1,1 @@
+FROM quay.io/operator-framework/configmap-operator-registry:v1.17.5
