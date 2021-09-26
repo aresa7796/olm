@@ -1,1 +1,1 @@
-FROM ghcr.io/openfaas/queue-worker:0.12.2
+FROM ghcr.io/openfaas/queue-worker:0.21.2
