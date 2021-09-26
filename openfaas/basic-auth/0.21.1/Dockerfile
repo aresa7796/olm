@@ -1,0 +1,1 @@
+FROM ghcr.io/openfaas/basic-auth:0.21.1
